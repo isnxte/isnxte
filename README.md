@@ -2,8 +2,8 @@
 	<samp>
 		 <strong>Software Engineer, Floripa/Brazil</strong> <br>
 		<small>
-    			Web Development <br>
-			Software Architecture <br> 
+    			Software Architecture <br> 
+			Web Development <br>
 			Cloud Computing <br>
 			🦪
 		</small>
