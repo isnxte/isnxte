@@ -5,7 +5,6 @@
     			Software Architecture <br> 
 			Web Development <br>
 			Cloud Computing <br>
-			🦪
 		</small>
 	</samp>
 </p>
